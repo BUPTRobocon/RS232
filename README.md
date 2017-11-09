@@ -13,5 +13,5 @@
 	- [yueyueKrystal](https://github.com/yueyueKrystal)
 	
 - View
-	- ![view](https://raw.githubusercontent.com/BUPTRobocon/A_Base/master/view.jpg)
+	- ![view](https://raw.githubusercontent.com/BUPTRobocon/RS232/master/view.jpg)
 	
